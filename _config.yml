@@ -3,7 +3,8 @@ author:
   name: Malte Isberner
   email: firstname 'dot' lastname 'at' gmail 'dot' com
 minima:
-  github: misberner
-  linkedin: malte-isberner-a2561170
-  instagram: misberner
+  social_links:
+    github: misberner
+    linkedin: malte-isberner-a2561170
+    instagram: misberner
 show_excerpts: true
