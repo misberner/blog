@@ -1,7 +1,5 @@
 theme: minima
-author:
-  name: Malte Isberner
-  email: firstname 'dot' lastname 'at' gmail 'dot' com
+author: Malte Isberner
 minima:
   social_links:
     github: misberner
