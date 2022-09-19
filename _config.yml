@@ -1,2 +1,8 @@
 theme: minima
-author: Malte Isberner
+author:
+  name: Malte Isberner
+  email: firstname 'dot' lastname 'at' gmail 'dot' com
+minima:
+  github: misberner
+  linkedin: malte-isberner-a2561170
+  instagram: misberner
