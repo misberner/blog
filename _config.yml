@@ -8,6 +8,9 @@ minima:
     instagram: misberner
     google_scholar_id: DGeUC0cAAAAJ
 show_excerpts: true
+disqus:
+  shortname: https-blog-misberner-dev
+url: https://blog.misberner.dev/
 plugins:
   - jekyll-remote-theme
 remote_theme: jekyll/minima
