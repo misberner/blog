@@ -6,6 +6,7 @@ minima:
     github: misberner
     linkedin: malte-isberner-a2561170
     instagram: misberner
+    google_scholar_id: DGeUC0cAAAAJ
 show_excerpts: true
 plugins:
   - jekyll-remote-theme
