@@ -1,8 +1,12 @@
-theme: minima
-author: Malte Isberner
+author:
+  name: Malte Isberner
+  email: firstname.lastname@gmail.com
 minima:
   social_links:
     github: misberner
     linkedin: malte-isberner-a2561170
     instagram: misberner
 show_excerpts: true
+plugins:
+  - jekyll-remote-theme
+remote_theme: jekyll/minima
